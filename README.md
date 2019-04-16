@@ -4,7 +4,7 @@
 
 [React版](https://github.com/fog3211/learn-lottie)  
 
-[无框架web版](https://github.com/fog3211/learn-lottie)  
+[无框架web版](https://github.com/fog3211/learn-lottie/tree/branch1)  
 
 ## 使用方法
 
