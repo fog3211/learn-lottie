@@ -1,29 +1,19 @@
-# vue-lottie-demo
+# vue中使用Lottie动画
 
-## Project setup
-```
-npm install
-```
+## 其他版本
 
-### Compiles and hot-reloads for development
-```
+[React版](https://github.com/fog3211/learn-lottie)  
+
+[无框架web版](https://github.com/fog3211/learn-lottie)  
+
+## 使用方法
+
+``` shell
+
+# 安装依赖
+npm i
+
+# 运行
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
