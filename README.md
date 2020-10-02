@@ -1,7 +1,7 @@
 # web中应用Lottie动画demo
 
 ## React版
-[在线预览](http://fog3211.com/learn-lottie/build/index.html)
+[在线预览](https://site.fog3211.com/learn-lottie/index.html)
 
 ## 其他版本
 [Vue版](https://github.com/fog3211/learn-lottie/tree/branch2)   
